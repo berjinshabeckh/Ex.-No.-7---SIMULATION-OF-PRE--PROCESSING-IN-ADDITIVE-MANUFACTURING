@@ -46,8 +46,8 @@
 ## Output:
 ![1](https://github.com/Prajeeth17/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120513885/115ce469-b900-4789-9e81-fc710bf16c65)
 
-### Name: Guruprasad B
-### Register Number: 212221230032
+### Name: Berjin Shabeck
+### Register Number: 212222240018
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
